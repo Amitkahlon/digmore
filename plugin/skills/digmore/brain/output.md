@@ -43,16 +43,18 @@ Depth without shape still has to acquire shape. **The summary is the record and 
 limit** — there is no second document to overflow into, so a finding with nowhere else to go belongs
 here, given a heading and a place in the argument. What is banned is formlessness, never length.
 
-**Write the summary's own prose in ASD-STE100 Simplified Technical English:**
+**Write the summary so a reader new to the market can follow it on one pass:**
 
-- Keep each section concise, complete, and easy to understand.
-- Remove information that does not help the reader.
-- Let the findings show the result. Do not describe the work that found them.
-- Format for the reader's needs, inside the sections the command fixes.
-- Include all the context a reader needs. The reader has not read the sources.
+- Write full sentences with a subject, a verb and an object. Cut ideas that do not help the
+  reader; never cut the words that connect ideas ("because", "so", "but").
+- One idea per sentence, about 25 words at most. Do not join two claims with a semicolon.
+- Define a market term the first time it appears, in the same sentence: "<term> (<what it
+  means, in plain words>)". No position metaphors ("layer", "sits above") unless explained.
+- Put what the reader needs in the sentence, not in parentheses.
+- Say why a finding matters, where the sources support it.
+- State findings; do not describe the work that found them.
 
-**Quotes are exempt.** A quote stays in the source's own words (§"Authoring the sources").
-Simplified English applies only to the sentences digmore writes.
+**Quotes are exempt** — they stay in the source's own words (§"Authoring the sources").
 
 This governs anyone who writes or rewrites the summary, not only whoever drafts it first.
 
