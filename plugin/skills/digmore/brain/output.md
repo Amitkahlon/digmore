@@ -20,6 +20,29 @@ These three govern how source content reaches the page. They are absolute.
 
 > Every substantive claim, figure or quote MUST carry an in-text citation.
 
+### How a citation is rendered
+
+One parenthesis at the end of the sentence or paragraph it supports, holding the links, any note on
+the source, and the confidence — in that order:
+
+    …<claim> ([<source name>, vendor blog](url), medium confidence).
+    …<claim> ([<source name>](url) +1 more, unvetted accounts, medium confidence).
+
+- **Link text is the source's name, one to three words** — the subreddit (`r/<name>`),
+  `Hacker News`, or the site's own name. Never a description of the page.
+- **At most two links**: the representative citation, then the highest-`pageQuality` citation from
+  a *different* site. `+N more` for the rest; omit it where there is none. Two links to one site read
+  as a repetition, and a second site is what shows corroboration.
+- **A note on the source goes inside the parenthesis, never in its own sentence**, and only where it
+  changes how much to trust the claim: `vendor blog`, `the vendor's own figure`, `unvetted accounts`.
+  One per parenthesis.
+- **A `promoter` label stays beside the quote it qualifies**, not in the parenthesis — it changes how
+  the quote reads, not how the claim is sourced.
+- **Confidence is plain words, last**: `high confidence`, never a code span. Its tiers are in
+  `vetting.md` §"Confidence tag rule".
+- **One claim, one parenthesis**, at the end of its own sentence. Consecutive sentences resting on the
+  same citations share one parenthesis, at the end of the last of them.
+
 ### What "do not condense" does and does not forbid
 
 The rule is about **rephrasing, not length**:
