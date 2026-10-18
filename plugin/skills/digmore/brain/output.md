@@ -30,9 +30,8 @@ the source, and the confidence — in that order:
 
 - **Link text is the source's name, one to three words** — the subreddit (`r/<name>`),
   `Hacker News`, or the site's own name. Never a description of the page.
-- **At most two links**: the representative citation, then the highest-`pageQuality` citation from
-  a *different* site. `+N more` for the rest; omit it where there is none. Two links to one site read
-  as a repetition, and a second site is what shows corroboration.
+- **At most two links**: the representative citation, then the highest-`pageQuality` of the rest.
+  Never the same page twice. `+N more` for the rest; omit it where there is none.
 - **A note on the source goes inside the parenthesis, never in its own sentence**, and only where it
   changes how much to trust the claim: `vendor blog`, `the vendor's own figure`, `unvetted accounts`.
   One per parenthesis.
